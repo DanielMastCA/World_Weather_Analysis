@@ -130,3 +130,6 @@ dmypy.json
 random_numbers.ipynb
 config.py
 API_practice.ipynb
+weather_data/
+VacationPy.ipynb
+WeatherPy.ipynb
